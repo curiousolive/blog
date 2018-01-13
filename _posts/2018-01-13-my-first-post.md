@@ -1,8 +1,8 @@
 ---
-published: true
+published: false
 ---
-## A New Post
+## AWS EC2 Instance with Docker
 
-# This is Curious Olive
+# Spinning up an EC2 Instance
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
