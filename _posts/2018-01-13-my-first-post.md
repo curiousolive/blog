@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## AWS EC2 Instance with Docker
 
