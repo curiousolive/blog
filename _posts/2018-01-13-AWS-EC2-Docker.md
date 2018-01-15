@@ -9,4 +9,6 @@ Spinning up an AWS EC2 instance is very straight forward, so let's go ahead:
 
 Head over to the AWS console, by first signing in to [AWB Console Login](https://console.aws.amazon.com/?nc2=h_m_mc "AWB Console Login")
 
-![2018-01-15 10_58_03-Amazon Web Services Sign-In.png]({{site.baseurl}}/_images/2018-01-15 10_58_03-Amazon Web Services Sign-In.png)
+![aws_signin.png]({{site.baseurl}}/_images/aws_signin.png)
+
+
