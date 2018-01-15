@@ -7,6 +7,6 @@ Before we can start to play around with Docker, we need to have a server that wi
 
 Spinning up an AWS EC2 instance is very straight forward, so let's go ahead:
 
-Head over to the AWS console, by first signing in to [AWB Console Login](https://console.aws.amazon.com/?nc2=h_m_mc "AWB Console Login")
+Head over to the AWS console, by first signing in to the AWS Management Console [here](https://console.aws.amazon.com/?nc2=h_m_mc)
 
 ![aws_signin.png]({{site.baseurl}}/images/aws_signin.png)
