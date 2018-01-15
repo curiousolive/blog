@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 # Spinning up an AWS EC2 instance
 
